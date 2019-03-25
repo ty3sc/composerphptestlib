@@ -1,5 +1,5 @@
 {
-	"name": "Composer PHP Test Library",
+	"name": "ty3sc/composerphptestlib",
 	"description": "A PHP library for testing Composer's repositories feature",
 	"autoload": {
 		"classmap": [
