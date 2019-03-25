@@ -1,0 +1,9 @@
+{
+	"name": "Composer PHP Test Library",
+	"description": "A PHP library for testing Composer's repositories feature",
+	"autoload": {
+		"classmap": [
+			"Foo.php"
+		]
+	}
+}
